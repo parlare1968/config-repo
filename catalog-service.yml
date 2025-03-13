@@ -1,2 +1,2 @@
-polar:
-  greeting: "Welcome to catalog from config server (updated)"
+ polar:
+  greeting: "Welcome to catalog from fresh config server"
